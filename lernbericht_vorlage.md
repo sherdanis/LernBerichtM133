@@ -1,31 +1,30 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Danial Surmust
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Im Projekt ging es um JSF und JavaWeb. 
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Ich habe gelernt, wie man einen Text als Link darstellt in JSF
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
-
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+- <h:link value="Click here" outcome="nextPage" />
+- Um einen Link herzustellen als Text braucht man h:link, welches dann zu a href gerendert wird.
+<img width="549" alt="Beispiel" src="https://user-images.githubusercontent.com/112334791/187222281-e21ef6fd-c496-4064-ac73-2f83b1e48066.png">
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+- Man sieht, dass ich in der Beschreibung mit 3 verschiedene Methoden zeige, wie man es dartstellt, was ich gelernt habe und zwar als Text, als Code und als Bild
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+👍 Gut an der Arbeit war, dass JSF ziemlich klar ist und man es schnell herausfinden kann.
 
-👎 und etwas, was nicht gut lief.
+👎 Nicht so gut gelaufen war, dass ich oft den Code als HTML dargestellt habe als in JSF (Umgewöhnungssache).
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**:
+Ich kann für das nächste Mal besser im Internet schauen, sodass ich falls ich etwas nicht weiss gerade die Lösung habe. 
+Ein kronketer Lösungschvorschlag wäre, dass ich eine Liste mache mit all den Code mit den Unterschieden zwischen HTML und JSF
